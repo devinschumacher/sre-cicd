@@ -1,7 +1,8 @@
 # README
 
+- "engines", `.nvmrc`
 - [HTML Validator](https://nuxt.com/modules/html-validator)
-- [typescript](https://www.typescriptlang.org/)
+- [typescript](https://www.typescriptlang.org/) + `typecheck`
 - [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged)
 - [husky](https://github.com/typicode/husky)
 - [ESLint](https://eslint.org/)
