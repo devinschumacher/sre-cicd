@@ -1,1 +1,20 @@
-# sre-cicd
+# README
+
+- [HTML Validator](https://nuxt.com/modules/html-validator)
+- [typescript](https://www.typescriptlang.org/)
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged)
+- [husky](https://github.com/typicode/husky)
+- [ESLint](https://eslint.org/)
+- [antfu/eslint-config](https://github.com/antfu/eslint-config)
+- [eslint/config-inspector](https://github.com/eslint/config-inspector)
+- [ESLint stylistic](https://eslint.style/)
+- [jsx-eslint/eslint-plugin-jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y)
+- [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc)
+- [t3: validation for type-safe environment variables](https://github.com/t3-oss/t3-env)
+- [zod](https://zod.dev/)
+- [vitest](https://vitest.dev/)
+- [playwright](https://playwright.dev/)
+- [sitespeed.io](https://www.sitespeed.io/)
+- [tRPC](https://trpc.io/)
+- [secret scanning](https://infisical.com/docs/cli/scanning-overview#automatically-scan-changes-before-you-commit)
+- posthog
