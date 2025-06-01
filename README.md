@@ -9,11 +9,14 @@
 - [antfu/eslint-config](https://github.com/antfu/eslint-config)
 - [eslint/config-inspector](https://github.com/eslint/config-inspector)
 - [ESLint stylistic](https://eslint.style/)
+- eslint-plugin-jsdoc
+- eslint-plugin-vuejs-accessibility
 - [jsx-eslint/eslint-plugin-jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y)
 - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc)
 - [t3: validation for type-safe environment variables](https://github.com/t3-oss/t3-env)
 - [zod](https://zod.dev/)
 - [vitest](https://vitest.dev/)
+- @vue/test-utils
 - [playwright](https://playwright.dev/)
 - [sitespeed.io](https://www.sitespeed.io/)
 - [tRPC](https://trpc.io/)
