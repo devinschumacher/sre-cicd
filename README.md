@@ -1,6 +1,6 @@
 # README
 
-- "engines", `.nvmrc`
+- `package.json..."engines"`, `.nvmrc`, `.npmrc`
 - [HTML Validator](https://nuxt.com/modules/html-validator)
 - [typescript](https://www.typescriptlang.org/) + `typecheck`
 - [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged)
@@ -22,3 +22,5 @@
 - [tRPC](https://trpc.io/)
 - [secret scanning](https://infisical.com/docs/cli/scanning-overview#automatically-scan-changes-before-you-commit)
 - posthog
+- [conventional commits](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)
+- commitlint
