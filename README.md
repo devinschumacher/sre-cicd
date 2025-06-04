@@ -14,6 +14,7 @@
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn/)
 - [jsx-eslint/eslint-plugin-jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y)
 - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc)
+- [eslint-plugin-tailwind](https://github.com/francoismassart/eslint-plugin-tailwindcss)
 - [t3: validation for type-safe environment variables](https://github.com/t3-oss/t3-env)
 - [zod](https://zod.dev/)
 - [vitest](https://vitest.dev/)
