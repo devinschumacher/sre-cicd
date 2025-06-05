@@ -16,6 +16,7 @@
 - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc)
 - [eslint-plugin-tailwind](https://github.com/francoismassart/eslint-plugin-tailwindcss)
 - [t3: validation for type-safe environment variables](https://github.com/t3-oss/t3-env)
+- [@vee-validate/nuxt](https://vee-validate.logaretm.com/v4/integrations/nuxt/)
 - [zod](https://zod.dev/)
 - [vitest](https://vitest.dev/)
 - @vue/test-utils
